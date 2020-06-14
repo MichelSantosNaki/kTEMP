@@ -1,0 +1,2 @@
+rootProject.name='kTEMP'
+include ':app'
